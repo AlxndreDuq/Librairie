@@ -9,7 +9,7 @@ Ce projet est une application Java simple pour gérer une bibliothèque, avec de
 - [Java JDK 11+](https://adoptium.net/)
 - [Maven 3.x](https://maven.apache.org/download.cgi)
 
-Vérifier la bonne intallation de maeven sur votre poste avec :
+Vérifier la bonne intallation de maven sur votre poste avec :
 ```bash
 mvn -v
 ```
