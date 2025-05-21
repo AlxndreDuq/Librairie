@@ -12,7 +12,7 @@ Ce projet est une application Java simple pour gérer une bibliothèque, avec de
 Vérifier la bonne intallation de maeven sur votre poste avec :
 ```bash
 mvn -v
-
+```
 Si ça ne fonctionne pas installez Maven
 
 ---
@@ -24,8 +24,9 @@ Dans un terminal ouvert à la racine du projet (là où se trouve `pom.xml`) :
 
 ```bash
 mvn compile
-
+```
 ## 🧪 Exécution des tests
 
 ```bash
 mvn test
+```
